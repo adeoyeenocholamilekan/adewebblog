@@ -49,11 +49,54 @@
 		"site_favicon": "/favicon.png"
 	},
 	"site_socials": [
+
+		{
+			"name": "instagram",
+			"url": "https://www.instagram.com/adeweb_developer",
+			"icon": "/images/socials/instagram.svg",
+			"description": "Follow us on Instagram"
+		},
+
 		{
 			"name": "facebook",
-			"url": "https://www.facebook.com/yourfacebookpage",
+			"url": "https://www.facebook.com/adewebdeveloper",
 			"icon": "/images/socials/facebook.svg",
 			"description": "Follow us on Facebook"
+		},
+
+		{
+			"name": "youtube",
+			"url": "https://youtube.com/@codingquicktips_?si=4g90UuZwVmDqtejK",
+			"icon": "/images/socials/youtube.svg",
+			"description": "Subscribe to our Youtube Channel"
+		},
+
+		{
+			"name": "github",
+			"url": "https://github.com/adeoyeenocholamilekan",
+			"icon": "/images/socials/github.svg",
+			"description": "Follow us on Github"
+		},
+
+		{
+			"name": "linkedin",
+			"url": "https://www.linkedin.com/in/adeweb-developer",
+			"icon": "/images/socials/linkedin-in.svg",
+			"description": "Follow us on Linkedin"
+		},
+
+		{
+			"name": "x",
+			"url": "https://www.x.com/adewebDeveloper",
+			"icon": "/images/socials/x-twitter.svg",
+			"description": "Follow us on X"
+		},
+
+		{
+			"name": "tiktok",
+			"url": "https://www.tiktok.com/adeweb_dev",
+			"icon": "/images/socials/tiktok.svg",
+			"description": "Follow us on Linkedin"
 		}
 	],
 	"site_header": {
@@ -80,7 +123,7 @@
 					"url": "/search/posts/programming"
 				},
 				{
-					"title": "Design",
+					"title": "UI/UX Design",
 					"url": "/search/posts/design"
 				},
 				{
@@ -190,7 +233,7 @@
 		}
 	},
 	"mobile_nav_sidebar": {
-		"description": "Discover the most outstanding articles on all topics of life. Write your stories and share them with the community. "
+		"description": "Welcome to Adeweb Developer Africa Blog!, your go-to destination for quick and easy coding tutorials. Whether you're a coding beginner or looking to expand your programming knowledge, our short and informative videos have you covered. Explore a wide range of coding topics, from HTML and CSS to JavaScript, Python, and more. Our goal is to make coding accessible, fun, and understandable for everyone. Subscribe now for bite-sized coding wisdom and embark on your coding journey with us! "
 	},
 	"help_page": {
 		"uri": "/helps",
@@ -214,7 +257,7 @@
 			{
 				"name": "email",
 				"title": "💌 EMAIL",
-				"desc": "example@example.com"
+				"desc": "example@adewebdeveloperblog.com"
 			}
 		]
 	},
