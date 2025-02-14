@@ -1,5 +1,5 @@
 {
-	"version": "2.8.0",
+	"version": "2.7.0",
 	"mailpoet_api_key": "your_mailpoet_api_key",
 	"mailpoet_list_id": "3",
 	"subcription_widget": {
@@ -19,10 +19,10 @@
 	},
 	"top_banner": {
 		"enable": true,
-		"description": "-50% Intro price for the next 72 hours only!.",
+		"description": "Welcome to Adeweb Developer Africa Blog!.",
 		"end_link": {
-			"url": "https://themeforest.net/item/ncmaz-nextjs-headless-wordpress-blog-magazine/47815656",
-			"text": "Buy now  →",
+			"url": "https://adewebdeveloperafrica.vercel.app",
+			"text": "Visit portfolio  →",
 			"new_tab": true
 		}
 	},
@@ -32,20 +32,20 @@
 		"sub_title": "Let's explore the most popular categories"
 	},
 	"site_info": {
-		"site_title": "Ncmaz Nextjs Blog",
-		"site_description": "Ncmaz Nextjs Blog headless WordPress",
-		"site_keywords": "Ncmaz Nextjs Blog",
-		"site_author": "ChisNghiax",
-		"site_email": "Your Email",
-		"site_phone": "Your Phone",
-		"site_address": "Your Address",
-		"site_city": "Your City",
-		"site_state": "Your State",
-		"site_zip": "Your Zip",
-		"site_country": "Your Country",
-		"site_url": "https://www.yoursite.com",
+		"site_title": "Adeweb Developer Africa Blog",
+		"site_description": "Adeweb Developer Africa Blog",
+		"site_keywords": "Adeweb Developer Africa Blog",
+		"site_author": "Adeweb Developer Africa",
+		"site_email": "adewebdeveloperng@gmail.com",
+		"site_phone": "+234 7043455416",
+		"site_address": "3 Adeyemi Odukomaya Street",
+		"site_city": "Magodo Shangisha",
+		"site_state": "Lagos Sstate",
+		"site_zip": "100001",
+		"site_country": "Nigeria",
+		"site_url": "https://adewebdeveloperafrica.vercel.app",
 		"site_logo": "/logo.png",
-		"site_logo_light": "/logo-light.png",
+		"site_logo_light": "/logo.png",
 		"site_favicon": "/favicon.png"
 	},
 	"site_socials": [
@@ -54,24 +54,6 @@
 			"url": "https://www.facebook.com/yourfacebookpage",
 			"icon": "/images/socials/facebook.svg",
 			"description": "Follow us on Facebook"
-		},
-		{
-			"name": "twitter",
-			"url": "https://twitter.com/yourtwitterpage",
-			"icon": "/images/socials/x-twitter.svg",
-			"description": "Follow us on Twitter"
-		},
-		{
-			"name": "github",
-			"url": "https://www.github.com/yourmediumpage",
-			"icon": "/images/socials/github.svg",
-			"description": "Follow us on Github"
-		},
-		{
-			"name": "tiktok",
-			"url": "https://www.tiktok.com/yourtiktokpage",
-			"icon": "/images/socials/tiktok.svg",
-			"description": "Follow us on Tiktok"
 		}
 	],
 	"site_header": {
@@ -82,7 +64,7 @@
 		}
 	},
 	"site_footer": {
-		"all_rights_reserved_text": "© 2024 BooliiTheme Company, Inc. All rights reserved."
+		"all_rights_reserved_text": "© 2023 Adeweb Developer Africa, Inc. All rights reserved."
 	},
 	"single_page": {
 		"show_view_cout": true,
@@ -182,29 +164,29 @@
 		"title": "Lost your password?",
 		"sub_title": "Enter your email below to reset your password.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "It is not hard, just do it",
+			"author": "Adeoye Enoch Olamilekan"
 		}
 	},
 	"signUp_page": {
 		"title": "Create an account",
 		"sub_title": "Enter your email below to create your account.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "It is not hard, just do it",
+			"author": "Adeoye Enoch Olamilekan"
 		}
 	},
 	"signIn_page": {
 		"title": "Sign in to your account",
 		"sub_title": "Enter your email below to sign in to your account.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "It is not hard, just do it",
+			"author": "Adeoye Enoch Olamilekan"
 		},
 		"lost_password": {
 			"is_use_lostpassword_default_of_wp": false,
 			"message": "Lost password not implemented yet! Please contact admmin for support.",
-			"url_lostpassword_default_of_wp": "https://yourwebsite.com/wp-login.php?action=lostpassword"
+			"url_lostpassword_default_of_wp": "https://money2.prizeworldhq.com.ng/wp-login.php?action=lostpassword"
 		}
 	},
 	"mobile_nav_sidebar": {
@@ -233,20 +215,6 @@
 				"name": "email",
 				"title": "💌 EMAIL",
 				"desc": "example@example.com"
-			},
-			{
-				"name": "phone",
-				"title": "☎️ PHONE",
-				"desc": "+88 123 456 789"
-			},
-			{
-				"name": "working_hours",
-				"title": "🕒 WORKING HOURS",
-				"desc": "Mon - Fri: 9:00 - 19:00"
-			},
-			{
-				"name": "socials",
-				"title": "👋 SOCIALS"
 			}
 		]
 	},
@@ -269,12 +237,12 @@
 	},
 	"discussion_settings": {
 		"enable": true,
-		"must_logged_in_to_comment": true
+		"must_logged_in_to_comment": false
 	},
 	"general_settings": {
 		"timeFormat": "h:mm a",
 		"language": "en",
 		"timezone": "auto",
-		"dateFormat": "M j, Y"
+		"dateFormat": "F j, Y"
 	}
 }
